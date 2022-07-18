@@ -13,7 +13,7 @@ export default function App() {
 
     function toggleShow(){
       setShow(prevShow => !prevShow);
-      console.log(show);
+      // console.log(show);
     }
     
     return (
